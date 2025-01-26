@@ -3,9 +3,9 @@
 const TestimonialsSection = () => {
   return (
     <div>
-      <h1>TestimonialsSection</h1>
+      <h2>Testimonials</h2>
     </div>
-  )
-}
+  );
+};
 
-export default TestimonialsSection
+export default TestimonialsSection;
